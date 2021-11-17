@@ -1,6 +1,8 @@
 # Keras Model Implementation Walkthrough
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukewood/ModelWalkthrough/blob/master/notebooks/ModelWalkthrough.ipynb)
 
+[This guide has a companion blog post.](https://lukewood.xyz/blog/keras-model-walkthrough)
+
 The Keras Model class is one of the centerpieces of the framework.
 It encapsulates metric tracking, callbacks, distribution, training loops, various input types, and a wide variety of other training related behavior. 
 This has led to the Model class containing a large volume of code that can be intimidating to sift through.
